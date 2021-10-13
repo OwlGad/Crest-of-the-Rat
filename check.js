@@ -106,7 +106,7 @@ const verifyXMLList = (raw) => {
 };
 
 const getList = async (name) => {
-    let response = await fetch("https://raw.githubusercontent.com/LimitlessSocks/EXU-Scrape/master/" + name + ".json");
+    let response = await fetch("https://raw.githubusercontent.com/OwlGad/Crest-of-the-Rat/master/" + name + ".json");
     let db = await response.json();
     return db;
 };

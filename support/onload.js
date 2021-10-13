@@ -1,4 +1,4 @@
-let baseURL = "https://raw.githubusercontent.com/LimitlessSocks/EXU-Scrape/master/";
+let baseURL = "https://raw.githubusercontent.com/OwlGad/Crest-of-the-Rat/master/";
 window.ycgDatabase = baseURL + "ycg.json";
 window.exuDatabase = baseURL + "db.json";
 window.supportDatabase = baseURL + "support.json";

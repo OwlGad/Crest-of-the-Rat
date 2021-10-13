@@ -51,7 +51,7 @@ let onLoad = async function () {
     
     // local testing
     let response = await fetch("./banlist.json");
-    // let response = await fetch("https://raw.githubusercontent.com/LimitlessSocks/EXU-Scrape/master/banlist.json");
+    // let response = await fetch("https://raw.githubusercontent.com/OwlGad/Crest-of-the-Rat/master/banlist.json");
     let db = await response.json();
     CardViewer.Database.setInitial(db);
     

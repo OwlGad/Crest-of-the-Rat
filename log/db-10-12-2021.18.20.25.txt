@@ -1,0 +1,26 @@
+[main] Created log file C:/Users/Admin/Documents/GitHub/Crest-of-the-Rat/log/db-10-12-2021.18.20.25.txt
+[main] Creating new file db.json
+[main] Creating new file db-date-added.json
+[main] Started scraping
+[main] Making ID requests
+[main] Finalizing ID requests
+[main] Waiting for results
+[8263489] Starting to parse 8263489
+[8263489] note: [+] added new card 2422378 (Awakening of Exodia Necross)
+[8263489] note: [+] added new card 2434707 (Glimpse of Obliteration)
+[8263489] note: [+] added new card 2422368 (Grasp of Exodia Necross)
+[8263489] note: [+] added new card 2422371 (Hand of Exodia)
+[8263489] note: [+] added new card 2422354 (Pact with Exodia)
+[8263489] note: [+] added new card 2422364 (Gaze of Exodia Necross)
+[8263489] note: [+] added new card 2434702 (Exodia be Free!)
+[8263489] note: [+] added new card 2422350 (The Legendary Exodia Necross Incarnate)
+[8263489] note: [+] added new card 2457480 (Right Leg of the Ruined One)
+[8263489] note: [+] added new card 2457475 (Right Arm of the Ruined One)
+[8263489] note: [+] added new card 2457222 (Exodia the Ruined One)
+[8263489] note: [+] added new card 2457472 (Left Arm of the Ruined One)
+[8263489] note: [+] added new card 2457487 (Left Leg of the Ruined One)
+[8263489] Finished scraping.
+[main] Time elapsed: 8.6440173s
+[interact] Beginning interaction phase.
+[interact] Changed ids: []
+[interact] Exiting interaction

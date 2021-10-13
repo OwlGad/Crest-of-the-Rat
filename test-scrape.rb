@@ -15,12 +15,12 @@ $session.evaluate_script $script
 
 database = [
     # Support
-    6787178, #Super Quant Support
-    6774584, #Koa'ki Meiru Support
-    6514931, #Dinomist Support
-    6590945, #Constellar Support
-    6746888, #Performapal Sky Magician & Odd-Eyes Support
-    6708539, #Trickstar Support
+    #6787178, #Super Quant Support
+    #6774584, #Koa'ki Meiru Support
+    #6514931, #Dinomist Support
+    #6590945, #Constellar Support
+    #6746888, #Performapal Sky Magician & Odd-Eyes Support
+    #6708539, #Trickstar Support
 ]
 
 puts "Making ID requests..."

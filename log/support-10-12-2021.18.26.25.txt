@@ -1,0 +1,11 @@
+[main] Created log file C:/Users/Admin/Documents/GitHub/Crest-of-the-Rat/log/support-10-12-2021.18.26.25.txt
+[main] Creating new file support.json
+[main] Creating new file support-date-added.json
+[main] Started scraping
+[main] Making ID requests
+[main] Finalizing ID requests
+[main] Waiting for results
+[main] Time elapsed: 7.4529347s
+[interact] Beginning interaction phase.
+[interact] Changed ids: []
+[interact] Exiting interaction

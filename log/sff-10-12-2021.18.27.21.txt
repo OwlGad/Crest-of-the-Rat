@@ -1,0 +1,18 @@
+[main] Created log file C:/Users/Admin/Documents/GitHub/Crest-of-the-Rat/log/sff-10-12-2021.18.27.21.txt
+[main] Reading sff.json
+[main] Creating new file sff-date-added.json
+[main] Started scraping
+[main] Making ID requests
+[main] Finalizing ID requests
+[main] Waiting for results
+[main] note: [-] removed old card 2360278 (Stygian Siren)
+[main] note: [-] removed old card 2359464 (Spirit of Perfection)
+[main] note: [-] removed old card 2359401 (Asceticism)
+[main] note: [-] removed old card 2359390 (Regressed Ritual Art)
+[main] note: [-] removed old card 2359458 (Art of Perfection)
+[main] note: [-] removed old card 2366105 (Ignore the Pain)
+[main] note: [-] removed old card 2359121 (Sanctity Barrier)
+[main] Time elapsed: 6.0860928s
+[interact] Beginning interaction phase.
+[interact] Changed ids: []
+[interact] Exiting interaction

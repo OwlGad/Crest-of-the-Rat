@@ -1,4 +1,4 @@
-let baseURL = "https://raw.githubusercontent.com/LimitlessSocks/EXU-Scrape/master/";
+let baseURL = "https://raw.githubusercontent.com/OwlGad/Crest-of-the-Rat/master/";
 // baseURL = "./";
 window.ycgDatabase = baseURL + "ycg.json";
 window.exuDatabase = baseURL + "db.json";
@@ -192,17 +192,8 @@ window.addEventListener("load", async function () {
         console.log(entries);
         
         // let entries = [
-            // ["VOLTRON",1182404,1182561],
-            // ["PANDA",1260802,2203721],
-            // ["ARIA FEY",1310876,1948661],
-            // ["STARSHIP",1365504,1364202],
-            // ["OF THE NORTH",1292502,1292516],
-            // ["HOLIFEAR",2124844,1137591],
-            // ["DIGITALLIAS",1898633,1898256],
-            // ["AKATSUKI",1451728,1451689],
-            // ["RULERS OF NAME",1388880,1389031],
-            // ["KUROSHIRO",1495512,1495570],
-            // ["GOO-T",1119567,1021405],
+            // ["EXYZODIA",2422350,2457222],
+            // ["DOKURORIDER",2133375,2131796],
         // ];
         
         // let promises = [];

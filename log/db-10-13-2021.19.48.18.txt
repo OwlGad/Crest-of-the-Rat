@@ -1,0 +1,43 @@
+[main] Created log file C:/Users/Admin/Documents/GitHub/Crest-of-the-Rat/log/db-10-13-2021.19.48.18.txt
+[main] Reading db.json
+[main] Creating new file db-date-added.json
+[main] Started scraping
+[main] Making ID requests
+[main] Finalizing ID requests
+[main] Waiting for results
+[7358472] Starting to parse 7358472
+[7358472] note: [+] added new card 2133390 (Dokurorider's Pet)
+[7358472] note: [+] added new card 2133412 (Dokurorider's Specter)
+[7358472] note: [+] added new card 1213 (Dokurorider)
+[7358472] note: [+] added new card 2133440 (Dokurorider's Shadow)
+[7358472] note: [+] added new card 2133384 (Dokurorider's Call)
+[7358472] note: [+] added new card 2133375 (Dokurorider's District)
+[7358472] note: [+] added new card 2133387 (Dokurorider's Return)
+[7358472] note: [+] added new card 2133383 (Dokurorider's Will)
+[7358472] note: [+] added new card 3581 (Revival of Dokurorider)
+[7358472] note: [+] added new card 2131796 (Dokurorider's ingenuity)
+[7358472] note: [+] added new card 2133385 (Dokurorider's Mood)
+[7358472] note: [+] added new card 2133389 (Dokurorider's Outburst)
+[7358472] note: [+] added new card 2131802 (Dokuroriders Reign)
+[7358472] note: [+] added new card 2328 (Jirai Gumo)
+[7358472] note: [+] added new card 1212 (Dokuroizo the Grim Reaper)
+[7358472] note: [+] added new card 1214 (Dokuroyaiba)
+[7358472] Finished scraping.
+[8263489] Starting to parse 8263489
+[8263489] Finished scraping.
+[8791504] Starting to parse 8791504
+[8791504] note: [+] added new card 2966 (Morphing Jar)
+[8791504] note: [+] added new card 2586679 (Koschey, the Cruel)
+[8791504] note: [+] added new card 2586657 (Koschey, the deathless)
+[8791504] note: [+] added new card 2585878 (Tree of Koschey)
+[8791504] note: [+] added new card 2586452 (Chest of Koschey)
+[8791504] note: [+] added new card 2586594 (Hare of Koschey)
+[8791504] note: [+] added new card 2586598 (Volture of Koschey)
+[8791504] note: [+] added new card 2586602 (Egg of Koschey)
+[8791504] note: [+] added new card 2565452 (Needle of Koschey)
+[8791504] note: [+] added new card 2586699 (Koschey, the aspiring)
+[8791504] Finished scraping.
+[main] Time elapsed: 7.592034s
+[interact] Beginning interaction phase.
+[interact] Changed ids: []
+[interact] Exiting interaction

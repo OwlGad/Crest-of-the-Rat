@@ -1,0 +1,13 @@
+[main] Created log file C:/Users/Admin/Documents/GitHub/Crest-of-the-Rat/log/db-10-12-2021.17.54.58.txt
+[main] Reading db.json
+[main] Creating new file db-date-added.json
+[main] Started scraping
+[main] Making ID requests
+[main] Finalizing ID requests
+[main] Waiting for results
+[8263489] Starting to parse 8263489
+[8263489] Finished scraping.
+[main] Time elapsed: 7.7125412s
+[interact] Beginning interaction phase.
+[interact] Changed ids: []
+[interact] Exiting interaction

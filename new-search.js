@@ -1,5 +1,5 @@
 // import "tag-extract.js"
-let baseURL = "https://raw.githubusercontent.com/LimitlessSocks/EXU-Scrape/master/";
+let baseURL = "https://raw.githubusercontent.com/OwlGad/Crest-of-the-Rat/master/";
 // baseURL = "./";
 window.ycgDatabase = baseURL + "ycg.json";
 window.exuDatabase = baseURL + "db.json";

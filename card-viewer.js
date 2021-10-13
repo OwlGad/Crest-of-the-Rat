@@ -159,81 +159,23 @@ class Prompt {
 };
 
 const CardsOfTheWeek = [
-    1117429, //Battlewasp - Akiza the Berserker
-    1175945, //ON SALE!!!
-    1222148, //Called by the Spell Book
-    // 1000049, //Little Tanker
-    // 1411709, //Gradielle, Symphony of Harmony
-    // 1069476, //Elon Musk 1
-    // 1331629, //Elon Musk 2
-    1482984, //Wingbeat Wyrm (Elon Musk 3)
-    1311654, //Torrential Fusion
-    // 1079215, //Grasp
-    1298826, //Eye of the Shadows
-    1333641, //Chained Down
-    1061760, //Sacrificial Soul Reborn
-    1393301, //Cosmic Vacuum
-    1374705, //Bone Chimera
-    // 1268592, //Max Evolution Pill
-    1537818, //Destoroyah, the One True Devil
-    1526913, //Spellbook of Forbidden Arts
-    930975,  //Equip Equality
-    // 1471876, //Flimsy Shot
-    1537498, //Ghost Wind & Bright Mist
-    1818903, //Ghost Wheel & Floating Lantern
-    1818868, //Caltrops
-    1409651, //Underwhelming Observations
-    1473788, //Malformed Test Subject
-    1558753, //Charismatic Priestess
-    1644436, //Solar Flare
-    1649242, //Mokey Mokey Shadow
-    747487,  //Reset!
-    1765725, //Number 108: Divine Wind Dragon
-    1805896, //Localized Tornado Dragon
-    1736029, //Lost Wind's Cyclone
-    1409993, //Localized Typhoon
-    1951637, //Half-Exchanged Spirit
-    1956938, //Shattered Heart
-    1770162, //Number 129: Lost Chained Dragon
-    1731724, //Artifact Teiws
-    1642313, //Rooftop Inu
-    1551870, //Exquisite Knowledge
-    1638767, //Abyss Insurgent
-    1599951, //Spawn of Exile
+    //1117429, //Battlewasp - Akiza the Berserker
+    //1175945, //ON SALE!!!
+    //1222148, //Called by the Spell Book
 ];
 
 const OTKTools = [
-    1547701, //1,000 Sun Sword
-    1000049, //Little Tanker
-    956234,  //Zeredia, the Spellswordswoman
-    1358152, //The Green Lion
-    1372934, //Tanegashima
-    1479910, //Swift Archer Lumis
-    1061760, //Sacrificial Soul Reborn
-    1129090, //Psykid
-    1067731, //Piping Hot Pink Overheatin'
-    1532800, //Modernote Icon - Waterflame
-    1499399, //Modernote Freshbeat
-    982826,  //Aerosmith
-    472990,  //Akali, the Rhino
-    1485923, //Cozmo Lord, The Ultimate Lifeform
-    1089148, //Damia, Sage of Stone
-    928560,  //Doom Emperor Dragon
-    1533268, //Itayin Herald
-    1479932, //Painted Soulseaker
-    1025602, //Sword Savior Salizar
-    1579988, //Dark Cynet Virus Draco
-    1264227, //Libradurgon
-    1551912, //Sinbad the Legend
+    //1547701, //1,000 Sun Sword
+    //1000049, //Little Tanker
 ];
 
 const Searchers = [
-    1318582, //Withering Cocoon
-    1318359, //Petit Cocoon
+    //1318582, //Withering Cocoon
+    //1318359, //Petit Cocoon
 ];
 
 const Removal = [
-    1644436, //Solar Flare
+    //1644436, //Solar Flare
 
 ]
 
@@ -243,22 +185,8 @@ const DrawCards = [
 ];
 
 const HandTraps = [
-    1481211, //Amorel Rachel
-    1661909, //Child of the Forlorn Clouds
-    1473788, //Malformed Test Subject
-    1343784, //Mermaidol Maiden
-    1585405, //Scripture Golem
-    1704232, //Sojourned Alchemist
-    1494123, //Clever Forte & West's Viola
-    1357705, //D.D. Crane
-    1537498, //Ghost Wind & Bright Mist
-    1565554, //Two Tuners' Lampoon
-    1671524, //Aromaseraphy Ginkgo
-    1349617, //Faergon, Watcher of the Forest
-    1372900, //Kazu Geiko
-    1372884, //Kufu Geiko
-    1372872, //Mitori Geiko
-    1473822, //Sunvine Maiden
+    //1481211, //Amorel Rachel
+    //1661909, //Child of the Forlorn Clouds
 ];
 
 const CardGroups = {
@@ -1076,7 +1004,7 @@ CardViewer.filter = function (query, exclude = null) {
 };
 
 const getResource = (...path) =>
-    `https://raw.githubusercontent.com/LimitlessSocks/EXU-Scrape/master/res/${path.join("/")}.png`;
+    `https://raw.githubusercontent.com/OwlGad/Crest-of-the-Rat/master/res/${path.join("/")}.png`;
 
 const getAttribute = (attr) =>
     getResource("attribute", attr[0] + attr.slice(1).toLowerCase());
