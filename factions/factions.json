@@ -1,0 +1,22 @@
+{
+    "data": [
+		{
+            "name": "Exyzodia",
+            "deckIds": [8263489],
+            "cardIds": [],
+            "thumb": "2422350",
+            "author": "Gol Nazyn",
+            "description": "Test description",
+            "tags": ["control", "grind"]
+        },
+        {
+            "name": "Koschey",
+            "deckIds": [9228768],
+            "cardIds": [],
+            "thumb": "2586679",
+            "author": "Gol Nazyn",
+            "description": "Test description",
+            "tags": ["control", "grind"]
+        }
+    ]
+}

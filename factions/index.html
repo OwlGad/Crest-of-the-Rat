@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Q3RKXFLZRZ');
+    </script>
+    <title>CotR Archetype Browser</title>
+    <meta charset="UTF-8">
+    <link rel="STYLESHEET" href="./../card-viewer.css">
+    <link rel="STYLESHEET" href="./factions-index.css">
+    <script
+			  src="https://code.jquery.com/jquery-3.4.1.min.js"
+			  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+			  crossorigin="anonymous"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3RKXFLZRZ"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <script src="main.js"></script>
+</head>
+<body>
+    <h1 class="title"><a href="./../">CotR Archetype Listing</a></h1>
+    <!-- <h2 class="subtitle"></h2> -->
+    <div id="filterBy" class="square-button">
+        <div id="filterByToggle" class="toggleIcon"><img src="./../res/search.png"/></div>
+        <input type="text" id="filterByInner" class="toggleable">
+        <!-- <div class="toggleIcon toggleable"><img src="./../res/plus.png"/><div id="tagContainer" class="popup">asdf</div></div> -->
+    </div>
+    <div id="randomArchetype" class="square-button">
+        <div id="randomArchetypeButton" class="toggleIcon"><img src="./../res/random.png"/></div>
+    </div>
+    <div id="listing" class="deck-link-listing">
+        
+        <a class="deck-link" href="./Exyzodia" id="Exyzodia"><img src="https://images.duelingbook.com/custom-pics/2400000/2422350.jpg?version=3"/><p>Exyzodia</p></a>
+        <a class="deck-link" href="./Koschey" id="Koschey"><img src="https://images.duelingbook.com/custom-pics/2500000/2586679.jpg?version=3"/><p>Koschey</p></a>
+    </div>
+</body>
+<script>
+    let Database = {"Exyzodia":{"name":"Exyzodia","author":"Gol Nazyn","description":"Test description","tags":["control","grind"]},"Koschey":{"name":"Koschey","author":"Gol Nazyn","description":"Test description","tags":["control","grind"]}};
+    console.info("Database loaded successfully!");
+</script>
+</html>
