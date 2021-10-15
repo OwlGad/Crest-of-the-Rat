@@ -74,7 +74,7 @@ beta = [
 
 # factions
 world = [
-    8055759
+    #8055759
 ]
 
 
