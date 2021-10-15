@@ -1,4 +1,4 @@
-VALID_OPERATIONS = ["main", "banlist", "support", "test", "beta", "sff"]
+VALID_OPERATIONS = ["main", "banlist", "support", "test", "beta", "world"]
 VALID_NOTES = [nil, "temp"]
 operation = ARGV[0]
 note = ARGV[1]
@@ -72,9 +72,9 @@ beta = [
     ###################
 ]
 
-# stungray flute format
-sff = [
-    #8055759
+# factions
+world = [
+    8055759
 ]
 
 
@@ -125,15 +125,15 @@ elsif operation == "support"
 elsif operation == "beta"
     decks = beta
     outname = "beta"
-elsif operation == "sff"
-    decks = sff
-    outname = "sff"
+elsif operation == "world"
+    decks = world
+    outname = "world"
 else
     decks = test
     outname = "test"
 end
 
-ignore_extra_info = ["test", "beta", "sff"]
+ignore_extra_info = ["test", "beta", "world"]
 
 decks += extra_info_order unless ignore_extra_info.include? operation
 

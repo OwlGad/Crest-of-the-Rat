@@ -9,15 +9,6 @@
             "description": "Test description",
             "tags": ["control", "grind"]
         },
-			{
-            "name": "Test",
-            "deckIds": [7288715],
-            "cardIds": [],
-            "thumb": "2106378",
-            "author": "Gol Nazyn",
-            "description": "Test description",
-            "tags": ["control", "grind"]
-        },
         {
             "name": "Koschey",
             "deckIds": [9228768],

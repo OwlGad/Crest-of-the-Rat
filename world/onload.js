@@ -1,6 +1,6 @@
 let baseURL = "https://raw.githubusercontent.com/OwlGad/Crest-of-the-Rat/master/";
 window.ycgDatabase = baseURL + "ycg.json";
-window.exuDatabase = baseURL + "world.json";
+window.exuDatabase = baseURL + "db.json";
 
 let onLoad = async function () {
     // load static info

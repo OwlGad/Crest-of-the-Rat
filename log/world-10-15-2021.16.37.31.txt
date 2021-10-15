@@ -1,0 +1,20 @@
+[main] Created log file C:/Users/Admin/Documents/GitHub/Crest-of-the-Rat/log/world-10-15-2021.16.37.31.txt
+[main] Creating new file world.json
+[main] Creating new file world-date-added.json
+[main] Started scraping
+[main] Making ID requests
+[main] Finalizing ID requests
+[main] Waiting for results
+[8055759] Starting to parse 8055759
+[8055759] note: [+] added new card 2360278 (Stygian Siren)
+[8055759] note: [+] added new card 2359464 (Spirit of Perfection)
+[8055759] note: [+] added new card 2359401 (Asceticism)
+[8055759] note: [+] added new card 2359390 (Regressed Ritual Art)
+[8055759] note: [+] added new card 2359458 (Art of Perfection)
+[8055759] note: [+] added new card 2366105 (Ignore the Pain)
+[8055759] note: [+] added new card 2359121 (Sanctity Barrier)
+[8055759] Finished scraping.
+[main] Time elapsed: 7.0941561s
+[interact] Beginning interaction phase.
+[interact] Changed ids: []
+[interact] Exiting interaction

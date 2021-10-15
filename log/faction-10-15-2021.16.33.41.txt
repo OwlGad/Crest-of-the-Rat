@@ -1,0 +1,11 @@
+[main] Created log file C:/Users/Admin/Documents/GitHub/Crest-of-the-Rat/log/faction-10-15-2021.16.33.41.txt
+[main] Creating new file faction.json
+[main] Creating new file faction-date-added.json
+[main] Started scraping
+[main] Making ID requests
+[main] Finalizing ID requests
+[main] Waiting for results
+[main] Time elapsed: 5.8165117s
+[interact] Beginning interaction phase.
+[interact] Changed ids: []
+[interact] Exiting interaction
